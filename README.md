@@ -1,3 +1,12 @@
+This is a fork of the origin FreshMvvm from rid00z
+# Extended Features (planned)
+* Using the Model and Page in different Namespaces
+* Setup the Naming to "View" and "ViewModel" with a property
+
+
+
+
+# Origin Readme per 02.10.2020
 # FreshMvvm for Xamarin.Forms
 
 FreshMvvm is a super light Mvvm Framework designed specifically for Xamarin.Forms. It's designed to be Easy, Simple and Flexible. 
